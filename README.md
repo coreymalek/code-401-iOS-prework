@@ -35,7 +35,12 @@ We use Slack to distribute files and collaborate before, during, and after the w
 
 Look for an email from us prior to the workshop, in order to join our Slack team.
 
-#### 6. Required Readings
+#### 6. Required Textbook
+Please have these resources prior to the first day of class.
+
+   - [Programming Objective-C](http://www.amazon.com/Programming-Objective-C-Edition-Developers-Library/dp/0321967607)
+
+#### 7. Required Readings
 Read through these resources prior to the first day of class.
 
    - [Swift Programming Guide](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
