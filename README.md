@@ -39,6 +39,7 @@ Look for an email from us prior to the workshop, in order to join our Slack team
 Please have these resources prior to the first day of class.
 
    - <a href="http://www.amazon.com/Programming-Objective-C-Edition-Developers-Library/dp/0321967607" target="_blank">Programming Objective-C</a>
+   - <a href="http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/ref=sr_1_1?s=books&ie=UTF8&qid=1463698680&sr=1-1&keywords=programming+interviews+exposed">Programming Interviews Exposed</a>
 
 #### 7. Required Readings
 Read through these resources prior to the first day of class.
