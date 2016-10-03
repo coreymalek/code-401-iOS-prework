@@ -4,6 +4,8 @@
 
 ###Pre-work:
 ------------
+The following workshop is a requirement to be completed prior to starting the iOS 401 course. If you have attended the workshop in person, this will count as completing the workshop. If not, you may work through it individually prior to your course start date:
+[Swift 3 Workshop](https://github.com/codefellows/swift-3-workshop)
 
 #### 1. Code 401
 If you are completely new to coding, this course will be very challenging. Our instructors would like to recommend our students to consider [Code 301](https://www.codefellows.org/courses/code-301/intermediate-software-development) as a prerequisite for the 401.
@@ -38,12 +40,9 @@ Look for an email from us prior to the workshop, in order to join our Slack team
 #### 6. Required Textbook
 Please have these resources prior to the first day of class.
 
-   - [Programming Objective-C](http://www.amazon.com/Programming-Objective-C-Edition-Developers-Library/dp/0321967607)
-
-#### 7. Required Readings
-Read through these resources prior to the first day of class.
-
-   - [Swift Programming Guide](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
+   - [Programming Objective-C](http://www.amazon.com/Programming-Objective-C-Edition-Developers-Library/dp/0321967607)  
+   
+   - [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/ref=sr_1_1?ie=UTF8&qid=1475531385&sr=8-1&keywords=programming+interviews+exposed)  
 
 ####Reminder:
-Have a Personal Project(App) in mind that you would enjoy building. During week 5 of the 401 we will be building out these Personal Projects and students will present their projects Friday that week.
+Have a Project(App) idea in mind that you would enjoy building.  
