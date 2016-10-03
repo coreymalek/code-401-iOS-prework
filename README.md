@@ -4,8 +4,9 @@
 
 ###Pre-work:
 ------------
-The following workshop is a requirement to be completed prior to starting the iOS 401 course. If you have attended the workshop in person, this will count as completing the workshop. If not, you may work through it individually prior to your course start date:
-[Swift 3 Workshop](https://github.com/codefellows/swift-3-workshop)
+The following workshop is a requirement to be completed prior to starting the iOS 401 course. If you have attended the workshop in person, this will count as completing the workshop. If not, you may work through it individually prior to your course start date:  
+
+**[Swift 3 Workshop](https://github.com/codefellows/swift-3-workshop)**
 
 #### 1. Code 401
 If you are completely new to coding, this course will be very challenging. Our instructors would like to recommend our students to consider [Code 301](https://www.codefellows.org/courses/code-301/intermediate-software-development) as a prerequisite for the 401.
